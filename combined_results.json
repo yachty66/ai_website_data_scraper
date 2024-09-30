@@ -1,0 +1,91 @@
+[
+    {
+        "machines": [
+            {
+                "name": "Lite - Linux NVMe (Belgium)",
+                "price": "60.00",
+                "configuration": "Xeon 2.90 GHz, 1 Gb RAM, 20GB NVMe"
+            },
+            {
+                "name": "Lite - Linux NVMe (Hungary)",
+                "price": "60.00",
+                "configuration": "Xeon 2.90 GHz, 1 Gb RAM, 20GB NVMe"
+            },
+            {
+                "name": "Lite - Linux NVMe (Serbia)",
+                "price": "60.00",
+                "configuration": "Xeon 2.90 GHz, 1 Gb RAM, 20GB NVMe"
+            },
+            {
+                "name": "Lite - Linux NVMe (Netherlands)",
+                "price": "60.00",
+                "configuration": "Xeon 1x2.60 GHz, 1 Gb RAM, 20GB NVMe"
+            },
+            {
+                "name": "Lite - Linux NVMe (Brazil)",
+                "price": "84.00",
+                "configuration": "Xeon 2.90 GHz, 1 Gb RAM, 20GB NVMe"
+            },
+            {
+                "name": "Start - Windows NVMe (Belgium)",
+                "price": "120.00",
+                "configuration": "Xeon 2.90 GHz, 2 Gb RAM, 30GB NVMe"
+            }
+        ]
+    },
+    {
+        "machines": []
+    },
+    {
+        "machines": []
+    },
+    {
+        "machines": []
+    },
+    {
+        "machines": [
+            {
+                "name": "VPS",
+                "price": "5.00",
+                "configuration": "Flexible range for projects of any size"
+            },
+            {
+                "name": "Dedicated Servers",
+                "price": "60.00",
+                "configuration": "High fault tolerance and security level"
+            },
+            {
+                "name": "Dedicated VPN",
+                "price": "5.00",
+                "configuration": "Dedicated IP address and its own DNS server"
+            },
+            {
+                "name": "Data Storage",
+                "price": "1.00",
+                "configuration": "Secure cloud storage for infrastructure of any complexity"
+            }
+        ]
+    },
+    {
+        "machines": [
+            {
+                "name": "Start - Windows SSD",
+                "price": "120.00",
+                "configuration": "Xeon 2.20 GHz, 2 Gb RAM, 30GB SSD"
+            },
+            {
+                "name": "Start - Windows NVMe",
+                "price": "120.00",
+                "configuration": "Xeon 1x2.60 GHz, 2 Gb RAM, 30GB NVMe"
+            },
+            {
+                "name": "Start - Windows NVMe",
+                "price": "144.00",
+                "configuration": "Xeon 2.90 GHz, 2 Gb RAM, 30GB NVMe"
+            }
+        ]
+    },
+    {
+        "machines": []
+    }
+]
